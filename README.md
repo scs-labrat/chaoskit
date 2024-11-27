@@ -65,7 +65,7 @@ A Python-based toolkit for generating, encrypting, and deploying shellcode using
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/chaotic-key-shellcode-tool.git
+   git clone https://github.com/scs-labrat/chaotic-key-shellcode-tool.git
    cd chaotic-key-shellcode-tool
    ```
 
@@ -196,27 +196,6 @@ Generated droppers are Python scripts designed to decrypt and execute shellcode 
 ## **Legal Disclaimer**
 
 This toolkit is intended for educational and authorised penetration testing purposes only. The authors are not responsible for any misuse of this tool. Always obtain proper authorisation before engaging in security testing activities.
-
----
-
-## **Contributing**
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a feature branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add feature-name"
-   ```
-4. Push to your fork:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a pull request.
 
 ---
 
